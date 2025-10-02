@@ -1,0 +1,5 @@
+{
+  "name": "Meta Creative Builder",
+  "description": "An AI-powered tool to generate high-performing, policy-compliant image and video ad creatives for Meta platforms. It helps users create variations for A/B testing and provides optimized ad copy to reduce CPM and CPC.",
+  "requestFramePermissions": []
+}
